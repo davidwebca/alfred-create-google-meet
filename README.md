@@ -2,7 +2,7 @@
 Opens a new Google Meet and copies the URL to the clipboard
 
 ## Installation
-Just download the zip [here](https://github.com/davidwebca/alfred-create-google-meet/blob/master/Create%20Google%20Meet%20.alfredworkflow?raw=true) and open the worfklow file with Alfred.
+Just download the zip [here](https://github.com/davidwebca/alfred-create-google-meet/blob/master/Create%20Google%20Meet.alfredworkflow?raw=true) and open the worfklow file with Alfred.
 
 ## Instructions
 Type ```meet``` and hit enter.
